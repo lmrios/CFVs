@@ -15,3 +15,13 @@ Here is what it looks like:
 ![preview](imgs/PreviewCFVs_1.PNG?raw=true "Preview of the GUI for the CFVs ")
 
 
+### Tip
+Remember to do this for the images.
+
+Type in the console this "compile" the ui file to python, with this command:
+pyuic5 -x UInozzles2018.ui -o codeUInozzles2018.py
+
+An the same goes to the "ResourceImgFile.qrc" file a python, with this command:
+pyrcc5 ResourceImgFile.qrc -o codeResourceImgFile.py
+
+Note: codeResourceImgFile.py will be import from codeUInozzles2018.py, so check the import lines ;)
