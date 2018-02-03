@@ -10,10 +10,16 @@ Up to now it uses:
 - Python3
 - PyQt5
 
+###  Results presented at AFA 2017
+There is a Poster - in PDF  format -  presented at the poster session at AFA 2017. 
+https://github.com/lmrios/CFVs/blob/master/PosterAFA2017CFVs.pdf
+I am sorry poster is in Spanish. There will be a English version SOON
+It is possible to see the on the Results section that Figure 4 and Figure 7 on the poster shows some minor differences with NIST - USA Calibration.
+We are fixing this, after that the code will be uploaded.
+
 ### Preview
 Here is what it looks like: 
 ![preview](imgs/PreviewCFVs_1.PNG?raw=true "Preview of the GUI for the CFVs ")
-
 
 ### Tip
 Remember to do this for the images.
